@@ -84,6 +84,6 @@ python app.py
 
 📢 联系我们
 
-• Titan DAO 官网：titandao.org
-• Twitter: @TitanGPT
-• Telegram: 加入社区
+• Titan DAO：[https://link3.to/titandao](https://link3.to/titandao)
+
+• Twitter: [@TitanGPT](https://x.com/TitanGPT)
