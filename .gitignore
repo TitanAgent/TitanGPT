@@ -4,8 +4,6 @@
 # 忽略所有 .bin 文件
 *.bin
 
-# 忽略 PyTorch 模型索引文件
-pytorch_model.bin.index.json
 
 # 忽略 __pycache__ 文件夹
 __pycache__/
