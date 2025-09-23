@@ -1,9 +1,18 @@
-# 忽略所有 .safetensors 文件
-*.safetensors
+忽略 Python 相关的临时文件和目录
+pycache/
+*.pyc
+*.pyo
+*.pyd
 
-# 忽略所有 .bin 文件
-*.bin
+忽略操作系统生成的文件
+.DS_Store
+.vscode/
 
+忽略向量数据库文件夹
+这是你在 xiangliang.py 中创建的本地数据库，不应该上传到 GitHub。
+titan_db/
 
-# 忽略 __pycache__ 文件夹
-__pycache__/
+忽略 ChatGLM3-6B 模型文件
+模型文件通常非常大，不应该被上传到 Git 仓库。
+请确保你的模型文件夹路径正确。
+chatglm3-6b/
